@@ -20,11 +20,11 @@ Selamat datang di EmoFace, proyek yang memungkinkan Anda untuk mendeteksi emosi 
 
 ### Sebelum Diolah
 
-![Sebelum Diolah](images/sebelum-diolah.png)
+![Sebelum Diolah](images/sebelum_diolah.png)
 
 ### Sesudah Diolah
 
-![Sesudah Diolah](images/sesudah-diolah.png)
+![Sesudah Diolah](images/sesudah_diolah.png)
 
 ## Teknologi yang Digunakan
 
