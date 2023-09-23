@@ -1,7 +1,7 @@
 
 # EmoFace: Deteksi Emosi dan Analisis Wajah
 
-![EmoFace Banner](images/emoface-banner.png)
+![EmoFace Banner](images/emoface_banner.png)
 
 **Pengembang:** _drat
 
